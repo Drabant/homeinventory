@@ -87,3 +87,8 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# Django work files
+inventory/migrations
+itemimages/*
+db.sqlite3
